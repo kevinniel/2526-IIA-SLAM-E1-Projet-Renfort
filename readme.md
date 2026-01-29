@@ -10,7 +10,13 @@ Informations générales :
 ## Séances
 
 - [Séance 1](séances/1.md) — 📅 29/01/2026 — 🕘 matin
+- [Séance 2](séances/2.md) — 📅 29/01/2026 — 🕘 aprem
+- [Séance 3](séances/3.md) — 📅 16/03/2026 — 🕘 matin
+- [Séance 4](séances/4.md) — 📅 16/03/2026 — 🕘 aprem
 
 ## TPs
 
 - [TP 1](tps/1.md) — 📅 29/01/2026 — 🕘 matin
+- [TP 2](tps/2.md) — 📅 29/01/2026 — 🕘 aprem
+- [TP 3](tps/3.md) — 📅 16/03/2026 — 🕘 matin
+- [TP 4](tps/4.md) — 📅 16/03/2026 — 🕘 aprem
