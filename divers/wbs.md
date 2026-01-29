@@ -87,3 +87,18 @@
 - 10.1 Gestion du stress de l’équipe
 - 10.2 Communication informelle
 - 10.3 Bonne ambiance de travail
+
+
+<details>
+    <summary>💡</summary>
+
+    - ❌ durées et dates
+    - ❌ rôles et personnes
+    - ❌ outils (React Native, Figma)
+    - ❌ ordre chronologique
+    - ❌ tâches trop vagues ou subjectives
+    - ❌ mélange pilotage / réalisation
+    - ❌ périmètre mal structuré
+    - ❌ niveaux incohérents
+    - ❌ tâches qui ne sont pas du “travail projet”
+</details>
