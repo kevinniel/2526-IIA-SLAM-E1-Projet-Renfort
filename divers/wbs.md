@@ -91,7 +91,8 @@
 
 <details>
     <summary></summary>
-
+    Astuces & rappels : 
+    
     - ❌ durées et dates
     - ❌ rôles et personnes
     - ❌ outils (React Native, Figma)
