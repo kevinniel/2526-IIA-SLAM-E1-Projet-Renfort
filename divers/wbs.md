@@ -90,7 +90,7 @@
 
 
 <details>
-    <summary>💡</summary>
+    <summary></summary>
 
     - ❌ durées et dates
     - ❌ rôles et personnes
